@@ -1,0 +1,207 @@
+[
+    {
+        "city": "Amsterdam",
+        "avg_temp": 3.5,
+        "altitude": 2
+    },
+    {
+        "city": "Athens",
+        "avg_temp": 10.5,
+        "altitude": 70
+    },
+    {
+        "city": "Berlin",
+        "avg_temp": 1,
+        "altitude": 34
+    },
+    {
+        "city": "Bratislava",
+        "avg_temp": -1,
+        "altitude": 134
+    },
+    {
+        "city": "Brussels",
+        "avg_temp": 3.5,
+        "altitude": 13
+    },
+    {
+        "city": "Copenhagen",
+        "avg_temp": 0.5,
+        "altitude": 6
+    },
+    {
+        "city": "Dublin",
+        "avg_temp": 5,
+        "altitude": 253
+    },
+    {
+        "city": "Helsinki",
+        "avg_temp": -5,
+        "altitude": 51
+    },
+    {
+        "city": "Lisbon",
+        "avg_temp": 11.5,
+        "altitude": 2
+    },
+    {
+        "city": "London",
+        "avg_temp": 5.5,
+        "altitude": 11
+    },
+    {
+        "city": "Luxembourg",
+        "avg_temp": 0,
+        "altitude": 370
+    },
+    {
+        "city": "Madrid",
+        "avg_temp": 6.5,
+        "altitude": 667
+    },
+    {
+        "city": "Moscow",
+        "avg_temp": -9,
+        "altitude": 157
+    },
+    {
+        "city": "Olso",
+        "avg_temp": -4.5,
+        "altitude": 23
+    },
+    {
+        "city": "Paris",
+        "avg_temp": 5,
+        "altitude": 35
+    },
+    {
+        "city": "Pristina",
+        "avg_temp": -1.5,
+        "altitude": 652
+    },
+    {
+        "city": "Rome",
+        "avg_temp": 7.5,
+        "altitude": 53
+    },
+    {
+        "city": "Stockholm",
+        "avg_temp": -3,
+        "altitude": 0
+    },
+    {
+        "city": "Tirana",
+        "avg_temp": "7",
+        "altitude": 110
+    },
+    {
+        "city": "Zurich",
+        "avg_temp": 0,
+        "altitude": 408
+    },
+    {
+        "city": "Washington",
+        "avg_temp": 2,
+        "altitude": 71
+    },
+    {
+        "city": "Ankara",
+        "avg_temp": 1.1,
+        "altitude": 938
+    },
+    {
+        "city": "Mexico City",
+        "avg_temp": 17,
+        "altitude": 2250
+    },
+    {
+        "city": "Brasilia",
+        "avg_temp": 23,
+        "altitude": 1172
+    },
+    {
+        "city": "Riyadh",
+        "avg_temp": 15.5,
+        "altitude": 612
+    },
+    {
+        "city": "Cairo",
+        "avg_temp": 14.5,
+        "altitude": 23
+    },
+    {
+        "city": "Bankok",
+        "avg_temp": 27,
+        "altitude": 1.5
+    },
+    {
+        "city": "New Delhi",
+        "avg_temp": 14.5,
+        "altitude": 216
+    },
+    {
+        "city": "Tashkent",
+        "avg_temp": 3.5,
+        "altitude": 455
+    },
+    {
+        "city": "Bogota",
+        "avg_temp": 14.5,
+        "altitude": 2644
+    },
+    {
+        "city": "Canberra",
+        "avg_temp": 21.5,
+        "altitude": 557
+    },
+    {
+        "city": "Buenos Aires",
+        "avg_temp": 25,
+        "altitude": 25
+    },
+    {
+        "city": "Bogota",
+        "avg_temp": 14.5,
+        "altitude": 2644
+    },
+    {
+        "city": "Lesotho",
+        "avg_temp": 21,
+        "altitude": 1000
+    },
+    {
+        "city": "Bogota",
+        "avg_temp": 14.5,
+        "altitude": 2644
+    },
+    {
+        "city": "Santiago",
+        "avg_temp": 21.8,
+        "altitude": 570
+    },
+    {
+        "city": "Bogota",
+        "avg_temp": 14.5,
+        "altitude": 2644
+    },
+    {
+        "city": "Santley",
+        "avg_temp": 9,
+        "altitude": 37
+    },
+    {
+        "city": "Bogota",
+        "avg_temp": 14.5,
+        "altitude": 2644
+    },
+    {
+        "city": "Kabul",
+        "avg_temp": -1,
+        "altitude": 1807
+    },
+    {
+        "city": "Thimphu",
+        "avg_temp": 5,
+        "altitude": 2
+    }
+]
